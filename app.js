@@ -70,9 +70,9 @@ function handleCanvasClick() {
   }
 }
 
-function handleCM() {
-  event.preventDefault();
-}
+// function handleCM() {
+//   event.preventDefault();
+// }
 
 function handleSaveClick() {
   const image = canvas.toDataURL();
